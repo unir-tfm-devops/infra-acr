@@ -1,5 +1,5 @@
-module "spring-boot-template" {
+module "unir-tfm-devops" {
   source = "./modules/acr"
 
-  name = "springboottemplate"
+  name = "unirtfmdevops"
 }
