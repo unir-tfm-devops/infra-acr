@@ -1,5 +1,5 @@
-module "spring-boot-template-azure" {
+module "spring-boot-template" {
   source = "./modules/acr"
 
-  name = "springboottemplateazure"
+  name = "springboottemplate"
 }
